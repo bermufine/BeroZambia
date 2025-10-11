@@ -11,7 +11,7 @@
           ],
 	        "numberZa": "951",
           "subtitleZa": "All Channels",
-          "thumbZa": "https://od.lk/s/M18yNDg1NzY1NTFf/znbczambia.jpg",
+          "thumbZa": "https://od.lk/s/NDZfODY4MDc2ODZf/sunfm.jpg",
           "titleZa": "SUN FM TV"
        },
        {
@@ -21,7 +21,7 @@
           ],
 	        "numberZa": "952",
           "subtitleZa": "All Channels",
-          "thumbZa": "https://od.lk/s/M18yNjk2NDE3Mzhf/edu.png",
+          "thumbZa": "https://od.lk/s/NDZfODY4MDc2NzZf/beatstv.png",
           "titleZa": "BEATS TV"
          },
          {
@@ -31,7 +31,7 @@
           ],
 	        "numberZa": "953",
           "subtitleZa": "All Channels",
-          "thumbZa": "https://od.lk/s/M18yNjk2NDE3Mzhf/edu.png",
+          "thumbZa": "https://od.lk/s/NDZfODY4MDc2ODFf/nac28tv.jpg",
           "titleZa": "NAC 28 TV"
          },
          {
@@ -41,7 +41,7 @@
           ],
 	        "numberZa": "954",
           "subtitleZa": "All Channels",
-          "thumbZa": "https://od.lk/s/M18yNjk2NDE3Mzhf/edu.png",
+          "thumbZa": "https://od.lk/s/NDZfODY4MDc2ODRf/qtv.png",
           "titleZa": "Q TV Zambia"
          },
         {
@@ -51,7 +51,7 @@
           ],
 	        "numberZa": "955",
           "subtitleZa": "All Channels",
-          "thumbZa": "https://od.lk/s/M18yNjk2NDE3Mzhf/edu.png",
+          "thumbZa": "https://od.lk/s/NDZfODY4MDc2ODBf/mozotv.jpg",
           "titleZa": "MOZO TV"
          },
          {
@@ -61,7 +61,7 @@
           ],
 	        "numberZa": "956",
           "subtitleZa": "All Channels",
-          "thumbZa": "https://od.lk/s/M18yNjk2NDE3Mzhf/edu.png",
+          "thumbZa": "https://od.lk/s/NDZfODY4MDc2ODJf/parliementtv.jpg",
           "titleZa": "PARLIAMENT TV"
          },
          {
@@ -71,7 +71,7 @@
           ],
 	        "numberZa": "957",
           "subtitleZa": "All Channels",
-          "thumbZa": "https://od.lk/s/M18yNjk2NDE3Mzhf/edu.png",
+          "thumbZa": "https://od.lk/s/NDZfODY4MDc2ODNf/primetv.png",
           "titleZa": "PRIME TV"
          },
          {
@@ -81,7 +81,7 @@
           ],
 	        "numberZa": "958",
           "subtitleZa": "All Channels",
-          "thumbZa": "https://od.lk/s/M18yNjk2NDE3Mzhf/edu.png",
+          "thumbZa": "https://od.lk/s/NDZfODY4MDc2Nzlf/kbntv.jpg",
           "titleZa": "KBN TV"
          },
          {
@@ -91,7 +91,7 @@
           ],
 	        "numberZa": "959",
           "subtitleZa": "All Channels",
-          "thumbZa": "https://od.lk/s/M18yNjk2NDE3Mzhf/edu.png",
+          "thumbZa": "https://od.lk/s/NDZfODY4MDc2ODVf/revelationtv.jpg",
           "titleZa": "REVELATION TV"
          },
          {
@@ -101,7 +101,7 @@
           ],
 	        "numberZa": "960",
           "subtitleZa": "All Channels",
-          "thumbZa": "https://od.lk/s/M18yNjk2NDE3Mzhf/edu.png",
+          "thumbZa": "https://od.lk/s/NDZfODY4MDc2Nzdf/crown.png",
           "titleZa": "CROWN TV"
          },
          {
@@ -111,7 +111,7 @@
           ],
 	        "numberZa": "961",
           "subtitleZa": "All Channels",
-          "thumbZa": "https://od.lk/s/M18yNjk2NDE3Mzhf/edu.png",
+          "thumbZa": "https://od.lk/s/NDZfODY4MDgwMTNf/znbc1.jpg",
           "titleZa": "ZNBC TV 1"
          },
          {
@@ -121,7 +121,7 @@
           ],
 	        "numberZa": "962",
           "subtitleZa": "All Channels",
-          "thumbZa": "https://od.lk/s/M18yNjk2NDE3Mzhf/edu.png",
+          "thumbZa": "https://od.lk/s/NDZfODY4MDc2ODdf/znbc2.png",
           "titleZa": "ZNBC TV 2"
          },
         {
@@ -129,9 +129,9 @@
           "sourceZa": [
             "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119689/znbc3/playlist.m3u8"
           ],
-	        "numberZa": "963",
+	      "numberZa": "963",
           "subtitleZa": "All Channels",
-          "thumbZa": "https://od.lk/s/M18yNjk2NDE3Mzhf/edu.png",
+          "thumbZa": "https://od.lk/s/NDZfODY4MDc2ODhf/znbc3.png",
           "titleZa": "ZNBC TV 3"
          },
         {
@@ -139,9 +139,9 @@
           "sourceZa": [
             "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119690/znbc4/playlist.m3u8"
           ],
-	        "numberZa": "963",
+	      "numberZa": "964",
           "subtitleZa": "All Channels",
-          "thumbZa": "https://od.lk/s/M18yNjk2NDE3Mzhf/edu.png",
+          "thumbZa": "https://od.lk/s/NDZfODY4MDc2ODlf/znbc4.jpg",
           "titleZa": "ZNBC TV 4"
          }
        ]
