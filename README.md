@@ -3,8 +3,27 @@
 "categorieZa": [
 {
 "name": "Movies",
-"videos": [
-       {
+"videos": [ 
+        {
+      "descriptionZa": "Cntral Voce Television is a broadcasting channel from Zambia",
+          "sourceZa": [
+            "https://stream.berosat.live:19360/central-voice/central-voice.m3u8"
+          ],
+	      "numberZa": "102",
+          "subtitleZa": "All Channels",
+          "thumbZa": "https://od.lk/s/NDZfOTE0MDY4ODRf/centralvoice.jpg",
+          "titleZa": "CENTRAL VOICE"
+         }
+       ]
+     }
+  ]
+}
+
+
+
+
+
+    {
       "descriptionZa": "SUN FM est l'une des chaines Zambiennes s que l'on retrouve dans la ville de Lusaka, possédant des émissions variées",
           "sourceZa": [
             "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119689/suntv/playlist.m3u8"
@@ -134,20 +153,6 @@
           "thumbZa": "https://od.lk/s/NDZfODY4MDc2ODhf/znbc3.png",
           "titleZa": "ZNBC TV 3"
          },
-        {
-      "descriptionZa": "ZNBC TV 4 est l'une des chaines Zambiennes s que l'on retrouve dans la ville de Lusaka, possédant des émissions Edicationnels",
-          "sourceZa": [
-            "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119690/znbc4/playlist.m3u8"
-          ],
-	      "numberZa": "964",
-          "subtitleZa": "All Channels",
-          "thumbZa": "https://od.lk/s/NDZfODY4MDc2ODlf/znbc4.jpg",
-          "titleZa": "ZNBC TV 4"
-         }
-       ]
-     }
-  ]
-}
 
 
 
