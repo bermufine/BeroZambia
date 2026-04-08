@@ -24,6 +24,16 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
           "subtitleZa": "All Channels",
           "thumbZa": "https://od.lk/s/NDZfOTE2NDYxMDdf/Walkfaithtv.jpg",
           "titleZa": "WALK OF FAITH TV"
+         },
+		 {
+      "descriptionZa": "Cntral Voce Television is a broadcasting channel from Zambia",
+          "sourceZa": [
+            "https://stream.berosat.live:19360/central-voice/central-voice.m3u8"
+          ],
+	      "numberZa": "102",
+          "subtitleZa": "All Channels",
+          "thumbZa": "https://od.lk/s/NDZfOTE0MDY4ODRf/centralvoice.jpg",
+          "titleZa": "CENTRAL VOICE"
          }
        ]
      }
