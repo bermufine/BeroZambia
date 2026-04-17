@@ -25,6 +25,16 @@ Driven by the vision of transforming lives and communities, Walk Of Faith TV con
           "thumbZa": "https://od.lk/s/NDZfOTE2NDYxMDdf/Walkfaithtv.jpg",
           "titleZa": "WALK OF FAITH TV"
          },
+		  {
+      "descriptionZa": "Called to Reign in Christ, Dominion TV is a faith-based media platform committed to proclaiming the Gospel of Jesus Christ with power, clarity, and purpose. Rooted in the mandate of kingdom dominion, we exist to raise believers who understand their identity in Christ and walk boldly in authority, victory, and righteousness. Through inspiring teachings, prophetic broadcasts, worship experiences, and life-transforming programs, Dominion TV reaches nations with a message of hope, restoration, and spiritual empowerment. We are dedicated to equipping individuals, families, and ministries to reign in life through Christ Jesus. At Dominion TV, we believe that every believer is called not just to survive—but to reign. Dominion TV — Raising a generation called to reign in Christ",
+          "sourceZa": [
+            "https://stream.berosat.live:19360/dominion-tv/dominion-tv.m3u8"
+          ],
+	      "numberZa": "132",
+          "subtitleZa": "All Channels",
+          "thumbZa": "https://od.lk/s/NDZfOTE3MDk1MThf/Domingos.jpg",
+          "titleZa": "DOMINION TV"
+         },
 		 {
       "descriptionZa": "Cntral Voce Television is a broadcasting channel from Zambia",
           "sourceZa": [
